@@ -43,7 +43,7 @@ Todo o planejamento, execução e registro de inconformidades foram documentados
 
 * 📊 **[Planilha de Cenários, Casos de Teste e Report de Bugs]** *(Clique aqui para acessar o Google Sheets com a modelagem completa)* -> `[https://docs.google.com/spreadsheets/d/1aoznC5q4D-yxufB6gl04Rkg3Qf_jcVyV-xv-lFBtlEA/edit?usp=sharing]`
 
-* 📁 **[Evidências de Execução]** *(Clique aqui para acessar a pasta no Google Drive contendo os prints e gravações dos testes executados e dos bugs encontrados)* -> `[COLE O LINK DO DRIVE AQUI]`
+* 📁 **[Evidências de Execução]** *(Clique aqui para acessar a pasta no Google Drive contendo os prints e gravações dos testes executados e dos bugs encontrados)* -> `[https://drive.google.com/drive/folders/1jPSFx4ajq80W9j9bA4kTBjTTLd0MvbMw?usp=sharing]`
 
 ---
 *Desenvolvido com foco em Qualidade, Resiliência e Experiência do Usuário.*
